@@ -46,3 +46,5 @@ export const formValidators = {};
 
 export const closeButtons = document.querySelectorAll(".popup__close");
 export const containerSelector = ".places__list";
+
+export const userId = "970eb122-456d-4dcb-9b5a-e863224c81f1";
