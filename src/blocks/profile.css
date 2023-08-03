@@ -12,6 +12,7 @@
   height: 120px;
   width: 120px;
   padding: 0;
+  cursor: pointer;
 }
 
 .profile__avatar:hover {
