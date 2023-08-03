@@ -103,7 +103,7 @@ cardCreateButton.addEventListener("click", () => {
 });
 
 ///Api
-api.getUserInfo().then((res) => {
+/* api.getUserInfo().then((res) => {
   //console.log(res)
   userInfo.setUserInfo({ name: res.name, aboutMe: res.about, userId: res._id });
   //console.log("check", api)
@@ -112,3 +112,4 @@ api.getInitialCards().then((res) => {
   section.renderItems(res);
   //console.log("res", res)
 });
+*/
