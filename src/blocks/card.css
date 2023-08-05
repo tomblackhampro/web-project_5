@@ -52,7 +52,7 @@
 }
 
 .card__like-counter {
-  font: Inter;
+  font-family: "Inter", sans-serif;
   font-weight: 400;
   size: 13px;
   color: black;
