@@ -52,6 +52,11 @@
 }
 
 .card__like-counter {
+  font: Inter;
+  font-weight: 400;
+  size: 13px;
+  color: black;
+  line-height: 1.2;
 }
 
 .card__delete-button {
