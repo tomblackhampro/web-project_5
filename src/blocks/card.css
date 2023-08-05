@@ -31,6 +31,9 @@
   margin: 25px 0;
 }
 
+.card__like {
+}
+
 .card__like-button {
   align-self: center;
   height: 18px;
@@ -54,7 +57,7 @@
 .card__like-counter {
   font-family: "Inter", sans-serif;
   font-weight: 400;
-  size: 13px;
+  font-size: 13px;
   color: black;
   line-height: 1.2;
 }
